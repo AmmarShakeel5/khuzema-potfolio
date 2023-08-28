@@ -1,0 +1,96 @@
+@media(min-width:212px) and (max-width:2500px){
+body{
+    background-color: rgb(10, 10, 10);
+    color: rgb(253, 253, 250);
+    
+    
+}
+
+.main{
+    height: 500px;
+    width: 1300px;
+    text-decoration-color: white;
+    padding: 50px 40px 30px 50px;
+    border: 3px solid white;
+    width: 90%;
+    margin-top: 5%;
+margin-left: 20px; 
+  
+}
+.sec{
+    height: 50px;
+    width: 30px;
+    text-align: center;
+   
+}
+.container {
+    position: relative;
+  }
+  
+  /* Bottom right text */
+  .text-block {
+    position: absolute;
+   top: 20px;
+    left: 10px;
+    right: 350PX;
+text-align: center;
+margin: 300px; 
+    color: white;
+    padding-left: 20px;
+  padding-right: 20px;
+  color: rgb(13, 12, 14);
+  
+}
+
+.big{
+    margin: 20px;
+    text-align: center;
+    
+}
+.small{
+    height: 200px;
+    width: 200px;
+    margin-left:590px;
+    border:2px solid white ;
+    width: 15%;
+    margin-top: 1%;
+ 
+}
+.img{
+    height: 200px;
+    width: 430px;
+    margin-left: 480px;
+    border:2px solid white ;
+    width: S0%;
+    margin-top: 5%:
+
+
+}
+.mob{
+margin: 20px;
+text-align: center;
+height: 200px;
+width: 400px;
+margin-left: 530px;
+border: 2px solid white;
+width: S0%;
+margin-top: 4%:
+padding: 20px;
+}
+.ba{
+    width: 300px;
+    height: 90px;
+    margin-left: 100px;
+
+
+  
+}
+.abcd{
+height: 200px;
+width: 400px;
+margin-left: 530px;
+border: 2px solid white ;
+padding: 10px;
+}
+
+}
