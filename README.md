@@ -1,1 +1,1 @@
-# khuzema-potfolio
+# khuzema-portfolio
